@@ -85,3 +85,5 @@ Character Classes help you describe the alphanumeric character set that is inclu
 The author is, Hannah Culver-Zawislak. A student at Georgia Tech's Full Stack Bootcamp. 
 
 https://github.com/hculv 
+
+Preview: https://github.com/hculv/email-matching-regex/blob/main/gist-regex.md
