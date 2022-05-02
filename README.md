@@ -1,6 +1,6 @@
 # Regex: Confirming Email Addresses
 
-This tutorial will describe how the following rejex, short for regular expression, confirms the characters of a person's email addresses. 
+This tutorial will describe how the following regex, short for regular expression, confirms the characters of a person's email addresses. 
 
 ## Summary
 
